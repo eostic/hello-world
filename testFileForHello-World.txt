@@ -1,0 +1,5 @@
+This is a sample file
+created in Notepad
+on the laptop
+...and for upload into the same branch of hello-world as the new
+file that I created in the github web interface
