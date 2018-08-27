@@ -1,5 +1,10 @@
 This is a sample file
 created in Notepad
 on the laptop
+===========
+added these lines today in between the equal signs.
+just to see how editing might work online
+and then with reviews comments from someone else
+===========
 ...and for upload into the same branch of hello-world as the new
 file that I created in the github web interface
